@@ -59,7 +59,7 @@ env.close()
 ## Screenshots
 
 **Game Environment:**
-![Flappy Bird Game](images/flappy_game.png)
+![Flappy Bird Game](imgs/img_45.png)
 
 **Training Progress:**
 ![Training Reward Curve](images/reward_curve.png)
