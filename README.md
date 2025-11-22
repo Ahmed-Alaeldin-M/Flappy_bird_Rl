@@ -64,9 +64,6 @@ env.close()
 **Training Progress:**
 ![Training Reward Curve](imgs/ep_len_curve.jpg)
 
-**Agent Playing:**
-![Flappy Bird Agent](images/agent_playing.gif)
-
 ---
 
 ## Usage
