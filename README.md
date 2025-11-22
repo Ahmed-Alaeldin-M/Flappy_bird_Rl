@@ -65,7 +65,7 @@ env.close()
 ![Training Reward Curve](imgs/ep_len_curve.jpg)
 
 **Agent Playing:**
-![Agent Playing](images/agent_playing.mkv)
+![Agent Playing](images/agent_playing.gif)
 
 *(You can generate screenshots during gameplay and training and save them in an `images/` folder.)*
 
