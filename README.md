@@ -62,10 +62,10 @@ env.close()
 ![Flappy Bird Game](imgs/img_45.png)
 
 **Training Progress:**
-![Training Reward Curve](images/reward_curve.png)
+![Training Reward Curve](imgs/ep_len_curve.jpg)
 
 **Agent Playing:**
-![Agent Playing](images/agent_playing.png)
+![Agent Playing](images/agent_playing.mkv)
 
 *(You can generate screenshots during gameplay and training and save them in an `images/` folder.)*
 
