@@ -62,7 +62,7 @@ env.close()
 ![Flappy Bird Game](imgs/img_45.png)
 
 **Training Progress:**
-![Training Reward Curve](imgs/ep_len_curve.png)
+![Training Reward Curve](imgs/ep_len_curve.jpg)
 
 **Agent Playing:**
 ![Agent Playing](images/agent_playing.mkv)
