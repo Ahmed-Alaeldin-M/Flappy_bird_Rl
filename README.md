@@ -66,9 +66,6 @@ env.close()
 
 **Agent Playing:**
 ![Agent Playing](images/agent_playing.gif)
-
-*(You can generate screenshots during gameplay and training and save them in an `images/` folder.)*
-
 ---
 
 ## Usage
