@@ -1,4 +1,6 @@
-![Flappy Bird Game](imgs/img_45.png)
+<p align="center">
+  <img src="imgs/img_45.png" alt="Flappy Bird Game">
+</p>
 
 # Flappy Bird Reinforcement Learning
 
