@@ -1,3 +1,5 @@
+![Flappy Bird Game](imgs/img_45.png)
+
 # Flappy Bird Reinforcement Learning
 
 This project implements a **Flappy Bird game** using **Reinforcement Learning (RL)** with the **PPO (Proximal Policy Optimization)** algorithm. The RL agent learns to play the game by interacting with the environment and improving its performance over time.
@@ -55,11 +57,6 @@ env.close()
 ```
 
 ---
-
-## Screenshots
-
-**Game Environment:**
-![Flappy Bird Game](imgs/img_45.png)
 
 **Training Progress:**
 ![Training Reward Curve](imgs/ep_len_curve.jpg)
